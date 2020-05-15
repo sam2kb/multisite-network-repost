@@ -9,7 +9,9 @@ Repost your stories to selected sites in the multisite network, preserving attac
 
 Depending on your WordPress setup, post attachments and featured images may or may not work in the target sites. Please read next to get a shared media library support for your multisite system.
 
-***Note: This plugin works best alongside [Multisite Global Media](https://github.com/bueltge/multisite-global-media) plugin. If both plugins are installed, all attachments and featured images are properly linked in the target site. The actual files stay in one place and don't get cloned saving your disk space. This is an optimal setup in most situations.***
+## Please Note
+
+This plugin works best alongside [Multisite Global Media](https://github.com/bueltge/multisite-global-media) plugin. If both plugins are installed, all attachments and featured images are properly linked in the target site. The actual files stay in one place and don't get cloned saving your disk space. This is an optimal setup in most situations.***
 
 
 ## Need more features?
